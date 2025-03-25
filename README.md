@@ -13,7 +13,7 @@
   *Simulates hunting behavior using the Vivarium framework.*
 
 - [**ArduwandAcademy**](https://github.com/DarkInvader-ux/ArduwandAcademy)  
-  *An educational project focusing on hands-on hardware and software learning.*
+  *ArduwandAcademy is an interactive potion brewing game built in Unity, integrating gesture recognition, Arduino motion sensing, and machine learning. Players use hand gestures and a physical magic wand to mix ingredients and cast spells, creating potions of varying difficulty.*
 
 - [**Little-Limos**](https://github.com/DarkInvader-ux/Little-Limos)  
   *My senior year project in digital game design – a creative exploration into game mechanics and design.*
