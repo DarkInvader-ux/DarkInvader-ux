@@ -1,69 +1,84 @@
-# Hello there, I'm **Alp** – a passionate software developer based in **Barcelona, Spain**. I’m always grinding away at enhancing my communication, teamwork, and leadership skills through exciting projects and collaborative work. I’m a go-getter who loves to take on new challenges and learn from every experience.
+# 👋 Hi, I'm Alp 
 
+I'm a **Technical Game Developer** and **Data Enthusiast** passionate about **game mechanics, AI, and interactive technologies**. My work spans from **building immersive Unity experiences** to **developing AI and machine learning models** for simulations and data-driven applications.  
 
-## 💻 Skills & Technologies
+## 🔥 What I Do  
 
-- **Programming Languages:** C#, Python
-- **Frameworks & Tools:** Jupyter Notebook, Unity, Unreal (for game projects), Git & GitHub
-- **Areas of Interest:** System Design, Digital Game Design, Reinforcement Learning, Machine Learning, and Data Analysis
+### 🎮 Game Development (Unity, Unreal Engine, C#)  
+- Designed and developed **3C mechanics** (Character, Camera, Controls).  
+- Implemented **custom shaders** for unique visual effects.  
+- Integrated **gesture-based interactions** using **Arduino and machine learning**.  
+- Built complex **game mechanics from scratch**, ensuring smooth and engaging gameplay.  
 
-## 🚀 Popular Projects
-
-- [**SystemDesignProject**](https://github.com/DarkInvader-ux/SystemDesignProject)  
-  *This project simulates the hunting behavior of dragonfly larvae using the Vivarium framework. The larvae navigate their environment, sensing and chasing tadpoles. If a larvae fails to eat for 10 seconds, it dies and is removed from the simulation.
-
-    Features:
-  
-    ✅ AI-driven predator-prey interaction
-  
-    ✅ Real-time movement and decision-making
-  
-    ✅ Asynchronous hunger monitoring with auto-despawn
-  
-    ✅ Custom scene configuration via YAML*
-
-- [**ArduwandAcademy**](https://github.com/DarkInvader-ux/ArduwandAcademy)  
-  *ArduwandAcademy is an interactive potion brewing game built in Unity, integrating gesture recognition, Arduino motion sensing, and machine learning. Players use hand gestures and a physical magic wand to mix ingredients and cast spells, creating potions of varying difficulty.*
-
-- [**Little-Limos**](https://github.com/DarkInvader-ux/Little-Limos)  
-  *Little Limos is a 3D puzzle game following the journey of a magnet cube trapped in an empty universe, navigating challenges through physics-based interactions and environmental puzzles.
-
-   🔹 Key Features:
-
-     3C Design Implementation – Designed and refined Character, Camera, and Controls.
- 
-     Core Gameplay Mechanics – Built from scratch to create an immersive puzzle experience.
-
-     Technical & Level Design – Ensured seamless integration of puzzles and mechanics.
-
-     Custom Shaders – Developed unique visual effects for a distinct artistic style.*
-
-- [**Fun-Race-3D-Clone**](https://github.com/DarkInvader-ux/Fun-Race-3D-Clone)  
-  *A 3D clone of a fun racing game showcasing my skills in game development using C#.*
-
-- [**RL-Simulation**](https://github.com/DarkInvader-ux/RL-Simulation)  
-  *Learning Algorithms and Norm Stability in the Dictator Game:
-
-   This project explores how different reinforcement learning (RL) models influence the emergence and stability of altruistic social norms in a simulated Dictator Game. We compare three learning algorithms—Bush-Mosteller, Q-Learning, and     Actor-Critic—to analyze their impact on donation behaviour.
-
-   The simulation runs in the following mode:
-
-   Separate Environments: Each algorithm is tested in isolation to study its independent learning dynamics.
-
-   Key metrics include average donation amount, convergence speed, and robustness to free-riders. Results show that while all models eventually favor self-interest, the Bush-Mosteller agent is consistently the most selfish, while Q-   Learning and Actor-Critic display more variability and adaptability.
-
-  The insights from this project bridge behavioral economics and AI, providing a deeper understanding of how learning mechanisms shape social norms.*
-
-- [**LinearRegression**](https://github.com/DarkInvader-ux/LinearRegression)  
-  *A straightforward application of linear regression for analyzing fuel consumption vs. engine size.*
-
-## 🌐 Connect with Me
-
-- **Personal Website:** [alpozkayikci.wixsite.com/website/work](https://alpozkayikci.wixsite.com/website/work)
-- **LinkedIn:** [in/alp-ozkayikci-a949011bb](https://www.linkedin.com/in/alp-ozkayikci-a949011bb)
-
-Feel free to reach out if you want to chat about projects, collaborations, or just share ideas!
+### 📊 Data Science & AI (Python, Machine Learning)  
+- Developed **reinforcement learning models** to study AI behavior in simulations.  
+- Built **predictive models** using **linear regression** and other ML techniques.  
+- Applied **data analysis and visualization** for insights in various projects.  
 
 ---
 
-*Happy coding!*
+## 🚀 Featured Projects  
+
+### 🧙 ArduwandAcademy  
+**A gesture-based potion brewing game using Unity, Arduino, and Machine Learning**  
+- Implemented **hand gesture recognition** via TensorFlow.  
+- Designed and trained **motion-based magic spells** using Wekinator.  
+- Developed an **Arduino-powered magic wand** with an accelerometer & gyroscope.  
+🔗 [View Project](https://github.com/DarkInvader-ux/ArduwandAcademy) | 🎥 [Live Demo](https://www.youtube.com/watch?v=kKPdtvjVukQ)  
+
+### 🧩 Little Limos  
+**A 3D Puzzle game featuring a magnet cube in an empty universe.**  
+- Created and fine-tuned **3C mechanics** (Character, Camera, Controls).  
+- Built custom **game shaders** for distinct visual effects.  
+- Designed and implemented core **physics-based gameplay mechanics**.  
+🔗 [View Project](https://github.com/DarkInvader-ux/Little-Limos)  
+
+### 🤖 RL-Simulation  
+**Exploring AI behavior through reinforcement learning.**  
+- Simulated **agent decision-making and norm stability** in AI interactions.  
+- Applied **machine learning models** to study emergent behaviors.  
+🔗 [View Project](https://github.com/DarkInvader-ux/RL-Simulation)  
+
+### 📈 LinearRegression  
+**A simple but effective machine learning model.**  
+- Developed a **linear regression model** analyzing **fuel consumption vs engine size**.  
+🔗 [View Project](https://github.com/DarkInvader-ux/LinearRegression)  
+
+---
+
+## 🛠️ Tech Stack  
+
+**Languages:**  
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)  
+
+**Game & Simulation:**  
+![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)  
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat&logo=unreal-engine&logoColor=white)  
+
+**Machine Learning & AI:**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white)  
+![Wekinator](https://img.shields.io/badge/Wekinator-%23A020F0.svg?style=flat)  
+
+**Hardware & Interactive Tech:**  
+![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat&logo=arduino&logoColor=white)  
+
+**Project Management & Collaboration:**  
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)  
+![Monday](https://img.shields.io/badge/Monday-ff6f00?style=flat&logo=monday&logoColor=white)  
+![Asana](https://img.shields.io/badge/Asana-273347?style=flat&logo=asana&logoColor=white)  
+
+**Design & Art Tools:**  
+![Maya](https://img.shields.io/badge/Maya-00C4B3?style=flat&logo=autodesk&logoColor=white)  
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)  
+
+---
+
+## 🌍 Let's Connect!  
+
+🔗 **Website:** [alpozkayikci.wixsite.com/website/work](https://alpozkayikci.wixsite.com/website/work)  
+🔗 **LinkedIn:** [in/alp-ozkayikci-a949011bb](https://www.linkedin.com/in/alp-ozkayikci-a949011bb)  
+
+---
+
+🔥 **I'm always open to collaborations, exciting projects, and learning opportunities. Let’s build something awesome together!** 🚀  
