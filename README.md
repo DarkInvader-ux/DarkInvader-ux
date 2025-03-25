@@ -31,7 +31,6 @@
 
 - **Personal Website:** [alpozkayikci.wixsite.com/website/work](https://alpozkayikci.wixsite.com/website/work)
 - **LinkedIn:** [in/alp-ozkayikci-a949011bb](https://www.linkedin.com/in/alp-ozkayikci-a949011bb)
-- **GitHub:** [DarkInvader-ux](https://github.com/DarkInvader-ux)
 
 Feel free to reach out if you want to chat about projects, collaborations, or just share ideas!
 
