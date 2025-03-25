@@ -30,13 +30,13 @@
 
    🔹 Key Features:
 
-    3C Design Implementation – Designed and refined Character, Camera, and Controls.
+     3C Design Implementation – Designed and refined Character, Camera, and Controls.
  
-    Core Gameplay Mechanics – Built from scratch to create an immersive puzzle experience.
+     Core Gameplay Mechanics – Built from scratch to create an immersive puzzle experience.
 
-    Technical & Level Design – Ensured seamless integration of puzzles and mechanics.
+     Technical & Level Design – Ensured seamless integration of puzzles and mechanics.
 
-    Custom Shaders – Developed unique visual effects for a distinct artistic style.*
+     Custom Shaders – Developed unique visual effects for a distinct artistic style.*
 
 - [**Fun-Race-3D-Clone**](https://github.com/DarkInvader-ux/Fun-Race-3D-Clone)  
   *A 3D clone of a fun racing game showcasing my skills in game development using C#.*
