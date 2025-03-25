@@ -10,7 +10,17 @@
 ## 🚀 Popular Projects
 
 - [**SystemDesignProject**](https://github.com/DarkInvader-ux/SystemDesignProject)  
-  *Simulates hunting behavior using the Vivarium framework.*
+  *This project simulates the hunting behavior of dragonfly larvae using the Vivarium framework. The larvae navigate their environment, sensing and chasing tadpoles. If a larvae fails to eat for 10 seconds, it dies and is removed from the simulation.
+
+    Features:
+  
+    ✅ AI-driven predator-prey interaction
+  
+    ✅ Real-time movement and decision-making
+  
+    ✅ Asynchronous hunger monitoring with auto-despawn
+  
+    ✅ Custom scene configuration via YAML*
 
 - [**ArduwandAcademy**](https://github.com/DarkInvader-ux/ArduwandAcademy)  
   *ArduwandAcademy is an interactive potion brewing game built in Unity, integrating gesture recognition, Arduino motion sensing, and machine learning. Players use hand gestures and a physical magic wand to mix ingredients and cast spells, creating potions of varying difficulty.*
@@ -32,7 +42,17 @@
   *A 3D clone of a fun racing game showcasing my skills in game development using C#.*
 
 - [**RL-Simulation**](https://github.com/DarkInvader-ux/RL-Simulation)  
-  *Explores how different reinforcement learning models affect the emergence of social norms.*
+  *Learning Algorithms and Norm Stability in the Dictator Game:
+
+   This project explores how different reinforcement learning (RL) models influence the emergence and stability of altruistic social norms in a simulated Dictator Game. We compare three learning algorithms—Bush-Mosteller, Q-Learning, and     Actor-Critic—to analyze their impact on donation behaviour.
+
+   The simulation runs in the following mode:
+
+   Separate Environments: Each algorithm is tested in isolation to study its independent learning dynamics.
+
+   Key metrics include average donation amount, convergence speed, and robustness to free-riders. Results show that while all models eventually favor self-interest, the Bush-Mosteller agent is consistently the most selfish, while Q-   Learning and Actor-Critic display more variability and adaptability.
+
+  The insights from this project bridge behavioral economics and AI, providing a deeper understanding of how learning mechanisms shape social norms.*
 
 - [**LinearRegression**](https://github.com/DarkInvader-ux/LinearRegression)  
   *A straightforward application of linear regression for analyzing fuel consumption vs. engine size.*
