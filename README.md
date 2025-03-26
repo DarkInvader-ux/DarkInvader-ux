@@ -56,7 +56,10 @@ I'm a **Technical Game Developer** and **Data Enthusiast** passionate about **ga
 
 ### 📈 LinearRegression  
 **A simple but effective machine learning model.**  
-- Developed a **linear regression model** analyzing **fuel consumption vs engine size**.  
+- Developed a **linear regression model** analyzing **fuel consumption vs engine size**.
+- As engine size increases the fuel consumption in city also increases.
+- As engine size increases the fuel consumption in highway doesn't necessarily increase.
+  
 🔗 [View Project](https://github.com/DarkInvader-ux/LinearRegression)  
 
 ---
