@@ -54,7 +54,7 @@ I'm a **Technical Game Developer** and **Data Enthusiast** passionate about **ga
 
   📌 View the full notebook on Kaggle: [View Project](https://www.kaggle.com/code/alpozkayikci/airbnb-analysis)
 
-### 📈 LinearRegression  
+### 📈 LinearRegression Model on fuel consumption
 **A simple but effective machine learning model.**  
 - Developed a **linear regression model** analyzing **fuel consumption vs engine size**.
 - As engine size increases the fuel consumption in city also increases.
