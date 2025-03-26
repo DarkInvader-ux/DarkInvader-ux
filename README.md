@@ -37,7 +37,22 @@ I'm a **Technical Game Developer** and **Data Enthusiast** passionate about **ga
 **Exploring AI behavior through reinforcement learning.**  
 - Simulated **agent decision-making and norm stability** in AI interactions.  
 - Applied **machine learning models** to study emergent behaviors.  
-🔗 [View Project](https://github.com/DarkInvader-ux/RL-Simulation)  
+🔗 [View Project](https://github.com/DarkInvader-ux/RL-Simulation)
+
+### 🔍 Exploratory Data Analysis (EDA) on Airbnb Listings
+  **Overview: Analyzing room types, pricing, availability, and location trends in Airbnb listings.**
+          
+  - Key Findings:
+          
+  - No expensive shared rooms: All shared rooms were affordable.
+          
+  - High-price areas: Mostly found in Brooklyn & Manhattan.
+          
+  - Availability & Price: No clear linear relationship.
+          
+   - NaN values: Only present in apartments with no reviews.
+
+  📌 View the full notebook on Kaggle: [View Project](https://www.kaggle.com/code/alpozkayikci/airbnb-analysis)
 
 ### 📈 LinearRegression  
 **A simple but effective machine learning model.**  
