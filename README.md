@@ -50,7 +50,7 @@ I'm a **Technical Game Developer** and **Data Enthusiast** passionate about **ga
           
   - Availability & Price: No clear linear relationship.
           
-   - NaN values: Only present in apartments with no reviews.
+   - NaN values: Only occurs in apartments with no reviews.
 
   📌 View the full notebook on Kaggle: [View Project](https://www.kaggle.com/code/alpozkayikci/airbnb-analysis)
 
