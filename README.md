@@ -96,7 +96,7 @@ I'm a **Technical Game Developer** and **Data Enthusiast** passionate about **ga
 ## 🌍 Let's Connect!  
 
 🔗 **Website:** [alpozkayikci.wixsite.com/website/work](https://alpozkayikci.wixsite.com/website/work)  
-🔗 **LinkedIn:** [](https://es.linkedin.com/in/ismail-alp-ozkayikci-a949011bb)  
+🔗 **LinkedIn:** [LinkedIn](https://es.linkedin.com/in/ismail-alp-ozkayikci-a949011bb)  
 
 ---
 
