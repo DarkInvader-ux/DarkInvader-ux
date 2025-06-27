@@ -38,6 +38,7 @@ Key Highlights
 - Tested in an interactive Unity environment to enhance motivation and cognitive engagement
 - Addresses human-centered design challenges including accessibility, cognitive load, and user motivation
 - Suggests future directions including affective gesture recognition and therapeutic applications
+  
 🔗 [View Project](https://github.com/DarkInvader-ux/SCM_Project)
 
 ### 🧙 ArduwandAcademy  
