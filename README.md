@@ -72,6 +72,7 @@ I'm a **Technical Game Developer** and **Data Enthusiast** passionate about **ga
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white)
+![.Net](https://img.shields.io/badge/-.NET%206.0-blueviolet)
 
 **Game & Simulation:**  
 ![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)  
@@ -85,7 +86,7 @@ I'm a **Technical Game Developer** and **Data Enthusiast** passionate about **ga
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat&logo=arduino&logoColor=white)  
 
 **Project Management & Collaboration:**  
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)  ![Monday](https://img.shields.io/badge/Monday-ff6f00?style=flat&logo=monday&logoColor=white)  ![Asana](https://img.shields.io/badge/Asana-273347?style=flat&logo=asana&logoColor=white)  ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)  ![Monday](https://img.shields.io/badge/Monday-ff6f00?style=flat&logo=monday&logoColor=white)  ![Asana](https://img.shields.io/badge/Asana-273347?style=flat&logo=asana&logoColor=white)  ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff) ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
 
 **Design & Art Tools:**  
 ![Maya](https://img.shields.io/badge/Maya-00C4B3?style=flat&logo=autodesk&logoColor=white)  
