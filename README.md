@@ -24,8 +24,11 @@ I'm a **Technical Game Developer** and **Data Enthusiast** passionate about **ga
 
 Tech Stack
 Computer Vision: MediaPipe for real-time hand landmark detection
+
 Machine Learning: scikit-learn with MLP (Multi-Layer Perceptron) classifiers
+
 Interactive Environment: Unity for real-time gesture-triggered musical feedback
+
 Languages: Python (backend + model), C# (Unity)
 
 System Design
