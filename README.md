@@ -19,6 +19,27 @@ I'm a **Technical Game Developer** and **Data Enthusiast** passionate about **ga
 
 ## 🚀 Featured Projects  
 
+### 🎸 Gesture Hero
+**This project investigates the design and implementation of a real-time gesture recognition system enabling intuitive, contactless human-computer interaction through hand gestures. It focuses on translating natural behavioral cues into actionable digital commands—addressing rising needs in education, rehabilitation, and digital accessibility.**
+
+Tech Stack
+Computer Vision: MediaPipe for real-time hand landmark detection
+Machine Learning: scikit-learn with MLP (Multi-Layer Perceptron) classifiers
+Interactive Environment: Unity for real-time gesture-triggered musical feedback
+Languages: Python (backend + model), C# (Unity)
+
+System Design
+- Data Collection – Captured gesture samples using webcam input
+- Model Training – Trained classifiers on gesture data using supervised learning
+- Real-Time Classification – Recognized gestures in live sessions and integrated output into Unity
+
+Key Highlights
+- Achieves low-latency gesture recognition in real-time
+- Tested in an interactive Unity environment to enhance motivation and cognitive engagement
+- Addresses human-centered design challenges including accessibility, cognitive load, and user motivation
+- Suggests future directions including affective gesture recognition and therapeutic applications
+🔗 [View Project](https://github.com/DarkInvader-ux/SCM_Project)
+
 ### 🧙 ArduwandAcademy  
 **A gesture-based potion brewing game using Unity, Arduino, and Machine Learning**  
 - Implemented **hand gesture recognition** via TensorFlow.  
