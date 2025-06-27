@@ -23,6 +23,7 @@ I'm a **Technical Game Developer** and **Data Enthusiast** passionate about **ga
 **This project investigates the design and implementation of a real-time gesture recognition system enabling intuitive, contactless human-computer interaction through hand gestures. It focuses on translating natural behavioral cues into actionable digital commands—addressing rising needs in education, rehabilitation, and digital accessibility.**
 
 Tech Stack
+
 Computer Vision: MediaPipe for real-time hand landmark detection
 
 Machine Learning: scikit-learn with MLP (Multi-Layer Perceptron) classifiers
