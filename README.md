@@ -62,7 +62,7 @@ Key Highlights
 ### 🤖 RL-Simulation  
 **Exploring AI behavior through reinforcement learning.**  
 - Simulated **agent decision-making and norm stability** in AI interactions.  
-- Applied **machine learning models** to study emergent behaviors.  
+- Applied **reinforcement learning models** to study emergent behaviors.  
 🔗 [View Project](https://github.com/DarkInvader-ux/RL-Simulation)
 
 ### 🔍 Exploratory Data Analysis (EDA) on Airbnb Listings
