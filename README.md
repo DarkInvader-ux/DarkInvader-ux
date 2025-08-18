@@ -52,6 +52,17 @@ Key Highlights
 - Developed an **Arduino-powered magic wand** with an accelerometer & gyroscope.  
 🔗 [View Project](https://github.com/DarkInvader-ux/ArduwandAcademy) | 🎥 [Live Demo](https://www.youtube.com/watch?v=kKPdtvjVukQ)  
 
+### 📊 Unity API Dashboard  
+**A hybrid Unity + .NET project combining real-time API integration with an ETL pipeline and interactive visualization.**  
+
+- Designed a lightweight **ETL workflow**: Extract (API client) → Transform (service layer) → Load (persistent service & dashboard).  
+- Implemented clean architecture using **interfaces, services, dependency injection, and ScriptableObjects**.  
+- Integrated **Unity UI** for real-time event/score tracking and data visualization.  
+- Added **object pooling** and **DI-based installer** for scalable, performance-friendly design.  
+- Features a test harness (`ApiTestRunner`) to validate API connectivity.  
+
+🔗 [View Project](https://github.com/DarkInvader-ux/Unity-API-Dashboard)  
+
 ### 🧩 Little Limos  
 **A 3D Puzzle game featuring a magnet cube in an empty universe.**  
 - Created and fine-tuned **3C mechanics** (Character, Camera, Controls).  
