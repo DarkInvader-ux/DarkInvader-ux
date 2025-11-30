@@ -134,7 +134,7 @@ Key Highlights
 ## 🌍 Let's Connect!  
 
 🔗 **Website:** [alpozkayikci.wixsite.com/website/work](https://alpozkayikci.wixsite.com/website/work)  
-🔗 **LinkedIn:** [LinkedIn](www.linkedin.com/in/alp-ozkayikci)  
+🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/alp-ozkayikci/)  
 
 ---
 
