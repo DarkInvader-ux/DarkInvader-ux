@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alp 
 
-I'm a **Technical Game Developer** and **Data Enthusiast** passionate about **game mechanics, AI, and interactive technologies**. My work spans from **building immersive Unity experiences** to **developing AI and machine learning models** for simulations and data-driven applications.  
+I'm a **Software Engineer** and **Data Enthusiast** passionate about **game mechanics, AI, and interactive technologies**. My work spans from **building immersive Unity experiences** to **developing AI and machine learning models** for simulations and data-driven applications.  
 
 ## 🔥 What I Do  
 
