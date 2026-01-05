@@ -65,7 +65,7 @@ Key Highlights
 
 ### 🧩 Little Limos  
 **A 3D Puzzle game featuring a magnet cube in an empty universe.**  
-- Created and fine-tuned **3C mechanics** (Character, Camera, Controls).  
+- Created and fine-tuned **3C mechanics** (Character, Camera, Controls) using **Unity** and **C#**.  
 - Built custom **game shaders** for distinct visual effects.  
 - Designed and implemented core **physics-based gameplay mechanics**.  
 🔗 [View Project](https://github.com/DarkInvader-ux/Little-Limos)  
@@ -73,8 +73,8 @@ Key Highlights
 ### 🤖 RL-Simulation  
 **Exploring AI behavior through reinforcement learning.**  
 - Simulated **agent decision-making and norm stability** in AI interactions.  
-- Applied **reinforcement learning models** to study emergent behaviors.  
-🔗 [View Project](https://github.com/DarkInvader-ux/RL-Simulation)
+- Applied **reinforcement learning models**, **Q-Learning**, **Bush-Mosteller** and **Actor-Critic** to study emergent behaviors.  
+🔗[View Project](https://github.com/DarkInvader-ux/RL-Simulation)
 
 ### 🔍 Exploratory Data Analysis (EDA) on Airbnb Listings
   **Overview: Analyzing room types, pricing, availability, and location trends in Airbnb listings.**
