@@ -8,11 +8,11 @@ I'm a **Software Engineer** and **Data Enthusiast** passionate about **game mech
 - Designed and developed **3C mechanics** (Character, Camera, Controls).  
 - Implemented **custom shaders** for unique visual effects.  
 - Integrated **gesture-based interactions** using **Arduino and machine learning**.  
-- Built complex **game mechanics from scratch**, ensuring smooth and engaging gameplay.  
+- Built complex **game mechanics from scratch** using **Unity** and **C#**, ensuring smooth and engaging gameplay.  
 
 ### 📊 Data Science & AI (Python, Machine Learning)  
-- Developed **reinforcement learning models** to study AI behavior in simulations.  
-- Built **predictive models** using **linear regression** and other ML techniques.  
+- Developed **reinforcement learning models** like **Actor-Critic**, **Bush-Mosteller** to study AI behavior in simulations.  
+- Built **predictive models** using **linear regression** and other ML techniques like **MLP**.  
 - Applied **data analysis and visualization** for insights in various projects.  
 
 ---
