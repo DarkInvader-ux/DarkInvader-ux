@@ -43,7 +43,7 @@ Key Highlights
 - Addresses human-centered design challenges including accessibility, cognitive load, and user motivation
 - Suggests future directions including affective gesture recognition and therapeutic applications
   
-🔗 [View Project](https://github.com/DarkInvader-ux/SCM_Project)
+🔗 [View Project](https://github.com/DarkInvader-ux/SCM_Project) [Live Demo] (https://drive.google.com/file/d/1UhP64CcB2hRgYRMFRSFhLK7OnwsHq4iH/view?usp=sharing)
 
 ### 🧙 ArduwandAcademy  
 **A gesture-based potion brewing game using Unity, Arduino, and Machine Learning**  
