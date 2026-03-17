@@ -135,6 +135,8 @@ Key Highlights
 
 🔗 **Website:** [alpozkayikci.wixsite.com/website/work](https://alpozkayikci.wixsite.com/website/work)  
 🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/alp-ozkayikci/)  
+🔗 **Resume:** [Resume](https://mega.nz/file/h5BRDRCI#23kva3MKwSOoBjUhpsImiks-MprtdcnoouE0hbUMSoE)  
+
 
 ---
 
