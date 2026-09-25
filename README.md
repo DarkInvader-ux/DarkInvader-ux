@@ -20,7 +20,7 @@ I'm a **Software Engineer** and **Data Enthusiast** passionate about **game mech
 ## 🚀 Featured Projects  
 
 ### 🎸 Gesture Hero
-**This project investigates the design and implementation of a real-time gesture recognition system enabling intuitive, contactless human-computer interaction through hand gestures. It focuses on translating natural behavioral cues into actionable digital commands—addressing rising needs in education, rehabilitation, and digital accessibility.**
+**This project investigates the design and implementation of a real-time gesture recognition system enabling intuitive, contactless human-computer interaction through hand gestures. It focuses on translating natural behavioural cues into actionable digital commands—addressing rising needs in education, rehabilitation, and digital accessibility.**
 
 Tech Stack
 
