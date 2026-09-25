@@ -11,7 +11,7 @@ I'm a **Software Engineer** and **Data Enthusiast** passionate about **game mech
 - Built complex **game mechanics from scratch** using **Unity** and **C#**, ensuring smooth and engaging gameplay.  
 
 ### 📊 Data Science & AI (Python, Machine Learning)  
-- Developed **reinforcement learning models** like **Actor-Critic**, **Bush-Mosteller** to study AI behavior in simulations.  
+- Developed **reinforcement learning models** like **Actor-Critic**, **Bush-Mosteller** to study AI behaviour in simulations.  
 - Built **predictive models** using **linear regression** and other ML techniques like **MLP**.  
 - Applied **data analysis and visualization** for insights in various projects.  
 
@@ -71,9 +71,9 @@ Key Highlights
 🔗 [View Project](https://github.com/DarkInvader-ux/Little-Limos)  
 
 ### 🤖 RL-Simulation  
-**Exploring AI behavior through reinforcement learning.**  
+**Exploring AI behaviour through reinforcement learning.**  
 - Simulated **agent decision-making and norm stability** in AI interactions.  
-- Applied **reinforcement learning models**, **Q-Learning**, **Bush-Mosteller** and **Actor-Critic** to study emergent behaviors.  
+- Applied **reinforcement learning models**, **Q-Learning**, **Bush-Mosteller** and **Actor-Critic** to study emergent behaviours.  
 🔗[View Project](https://github.com/DarkInvader-ux/RL-Simulation)
 
 ### 🔍 Exploratory Data Analysis (EDA) on Airbnb Listings
